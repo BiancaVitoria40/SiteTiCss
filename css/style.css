@@ -1,0 +1,41 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.menu_navegacao {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    
+
+}
+
+ 
+
+ul, li{
+
+    display: inline-block;
+    margin-left: 24px;
+    cursor: pointer;
+
+}
+
+ 
+
+ 
+
+.Botao {
+
+        background-color: rgb(142,36,36);
+        color: white;
+        font-size: 16px;
+        padding: 20px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+
+}
